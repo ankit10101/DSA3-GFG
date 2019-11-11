@@ -1,6 +1,9 @@
-package com.company.Mathematics;
+package com.company.DSA3.Mathematics;
 
 /*
+
+Quadratic equation roots
+
 Given a quadratic equation in the form ax2 + bx + c. You need to print roots of it.
 
 Input Format:

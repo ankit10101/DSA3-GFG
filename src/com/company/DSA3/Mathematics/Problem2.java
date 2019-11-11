@@ -1,8 +1,11 @@
-package com.company.Mathematics;
+package com.company.DSA3.Mathematics;
 
 import java.util.Scanner;
 
 /*
+
+Celsius to Fahrenheit
+
 Given a temperature in celsius C. You need to convert the given temperature to Fahrenheit.
 
 Input Format:

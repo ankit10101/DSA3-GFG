@@ -1,6 +1,9 @@
-package com.company.Mathematics;
+package com.company.DSA3.Mathematics;
 
 /*
+
+Factorial of Number
+
 Given a positive integer N. The task is to find factorial of N.
 
 Input:

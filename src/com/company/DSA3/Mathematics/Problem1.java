@@ -1,8 +1,11 @@
-package com.company.Mathematics;
+package com.company.DSA3.Mathematics;
 
 import java.util.Scanner;
 
 /*
+
+Absolute Value
+
 You are given an integer I. You need to print the absolute value of the integer I.
 
 Input Format:
@@ -44,7 +47,7 @@ public class Problem1 {
         }
     }
 
-    public static int absolute(int I) {
+    private static int absolute(int I) {
         if (I < 0) {
             return I * -1;
         } else {
